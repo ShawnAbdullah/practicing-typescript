@@ -1,0 +1,20 @@
+{
+  "name": "ts-diceybusiness",
+  "version": "1.0.0",
+  "main": "diceybusiness.js",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "typescript": "^4.2.3"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w"
+  },
+  "author": "Shawn Abdullah",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
